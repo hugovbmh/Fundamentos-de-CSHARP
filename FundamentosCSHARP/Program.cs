@@ -39,7 +39,7 @@ namespace FundamentosCSHARP
 // int? numero = null; // el ? en el tipo de dato permite aceptar valores null
 // var nombre = "Hugo";
 // var limite = 50;
-// var persona = new { nombre = "Hugo", apellido = "Vilchez", edad=25 };
+// var persona = new { nombre = "Juan", apellido = "Vasque", edad=25 };
 // Console.WriteLine(persona.edad);
 //**********************************************
 ////arreglo en cshrap
